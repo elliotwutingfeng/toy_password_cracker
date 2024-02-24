@@ -11,7 +11,7 @@ Toy demonstration of common password cracking methods, namely, brute force, dict
 
 ## Usage
 
-Then, run the following
+Run the following
 
 ```bash
 git clone --depth 1 --recurse-submodules --shallow-submodules https://github.com/elliotwutingfeng/toy_password_cracker.git
