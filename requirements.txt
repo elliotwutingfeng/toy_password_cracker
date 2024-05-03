@@ -1,4 +1,4 @@
 argon2-cffi==23.1.0
 cryptography==42.0.5
 dill==0.3.8
-tqdm==4.66.2
+tqdm==4.66.4
